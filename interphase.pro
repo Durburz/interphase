@@ -1,4 +1,4 @@
-update=Di 12 Sep 2017 13:19:02 CEST
+update=Mo 18 Sep 2017 13:21:25 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=nrf51-kicad-master/nrf.pretty
+LibDir=/home/ufi/lib/kicad
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -59,3 +59,5 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=nrf51-kicad-master/nrf51822
+LibName31=oyvindt-master/mcp1640
+LibName32=bfrigon-master/switches
