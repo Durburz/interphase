@@ -1,4 +1,4 @@
-update=Mo 18 Sep 2017 13:21:25 CEST
+update=22.09.2017 18:30:30
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=/home/ufi/lib/kicad
+LibDir=C:/Users/Durburz/Entwicklung/kicad_lib;C:/Users/Durburz/Documents/KiCad/libs
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -58,6 +58,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=nrf51-kicad-master/nrf51822
-LibName31=oyvindt-master/mcp1640
-LibName32=bfrigon-master/switches
+LibName30=misc.pretty/core51822b
