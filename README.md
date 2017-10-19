@@ -5,3 +5,5 @@ Kudos to reversebias, as I got inspired by his fascinating mitosis keyboard (htt
 The only problem was the lack of keys for a full german layout + number row.
 
 Therefor, interphase is a kind of ISO-compatible layout with some minor modifications.
+
+![keyboard layout](layout.png?raw=true "layout")
