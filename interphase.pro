@@ -1,4 +1,4 @@
-update=22.09.2017 18:30:30
+update=27.09.2017 18:04:47
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,5 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=misc.pretty/core51822b
+LibName31=kicad-library-master/library/switches
+LibName32=kicadlib-master/library/mcp1640
