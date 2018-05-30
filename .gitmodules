@@ -1,0 +1,9 @@
+[submodule "lib/durburz_kicad_lib"]
+	path = lib/durburz_kicad_lib
+	url = https://github.com/Durburz/kicad_lib.git
+[submodule "lib/oyvindt_kicadlib"]
+	path = lib/oyvindt_kicadlib
+	url = https://github.com/oyvindt/kicadlib.git
+[submodule "lib/bfrigon_kicad-library"]
+	path = lib/bfrigon_kicad-library
+	url = https://github.com/bfrigon/kicad-library.git

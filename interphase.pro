@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=C:/Users/Durburz/Entwicklung/kicad_lib;C:/Users/Durburz/Documents/KiCad/libs
+LibDir=./lib
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -58,6 +58,6 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=misc.pretty/core51822b
-LibName31=kicad-library-master/library/switches
-LibName32=kicadlib-master/library/mcp1640
+LibName30=durburz_kicad_lib/misc.pretty/core51822b
+LibName31=bfrigon_kicad-library/library/switches
+LibName32=oyvindt_kicadlib/library/mcp1640
