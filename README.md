@@ -1,5 +1,7 @@
 # interphase
 
+![keyboard picture](yt2j71jr8lw01.jpg?raw=true "layout")
+
 interphase is a open-source mechanical keyboard.
 Kudos to reversebias, as I got inspired by his fascinating mitosis keyboard (https://github.com/reversebias/mitosis-hardware).
 The only problem was the lack of keys for a full german layout + number row.
