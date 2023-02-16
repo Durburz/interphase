@@ -11,3 +11,5 @@ Therefor, interphase is a kind of ISO-compatible layout with some minor modifica
 ![keyboard layout](layout.png?raw=true "layout")
 
 Update on battery life: The AAA batteries (Duracell) per keyboard-half are still going strong. After 5 months of heavy usage at work, they only dropped to ~1.4V. Therefor the total lifetime of the batteries will be approximateley 1 - 1.5 years, as the voltage regulator will work down to 0.35V.
+
+As identified in https://github.com/Durburz/interphase-firmware/issues/6 it is strictly necessary to use the C variant of the MCP1640
